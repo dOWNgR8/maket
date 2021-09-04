@@ -91,14 +91,14 @@ nav{
 .stats-line{
     display: flex;
 }
-.stats-tetx{
+.stats-text{
     padding: 40px;
 }
-.stats-tetx h2{
+.stats-text h2{
     font-size: 40px;
     margin-bottom: 70px;
 }
-.stats-tetx p{
+.stats-text p{
     margin-top: 50px;
     font-size: 13px;
     line-height: 27;
